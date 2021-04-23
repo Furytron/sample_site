@@ -1,4 +1,4 @@
 sample_site
 ===========
 
-Sample site to show projects. With update 1
+Sample project to setup github CI/CD processes and developer flows
